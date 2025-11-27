@@ -5,7 +5,7 @@
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email-carola123589@gmail.com-red?style=flat&logo=gmail)](mailto:carola123589@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/ana-carolina-arriagada-202b3324b/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-blue?style=flat&logo=linkedin)](www.linkedin.com/in/ana-carolina-arriagada-498786307)
 
 </div>
 
